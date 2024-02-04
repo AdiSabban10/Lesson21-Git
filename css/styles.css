@@ -13,4 +13,6 @@ div {
     background-color: yellow;
     margin: auto;
     text-align: center;
+    font-size: 22px;
+    font-weight: bold;
 }
